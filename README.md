@@ -26,8 +26,8 @@ El script principal (`tarea de lenguajes.py`) realiza las siguientes tareas:
 
 1.  **Clonar el repositorio** (o descargar los archivos):
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-    cd TU_REPOSITORIO
+    git clone [https://github.com/BranGZ/Trabajos.git](https://github.com/BranGZ/Trabajos.git)
+    cd Trabajos
     ```
 
 2.  **Tener los archivos:** Asegúrate de tener los siguientes archivos en la misma carpeta:
